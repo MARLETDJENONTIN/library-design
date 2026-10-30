@@ -49,13 +49,13 @@ interface Film {
 const FILMS: Film[] = [
   {
     id: 'valley',
-    title: 'The Silent Valley',
+    title: 'La Vallée Silencieuse',
     romaji: 'SHIZUKANA TANI',
     kanji: '静かな谷',
     year: 1958,
-    genre: 'Drama',
+    genre: 'Drame',
     minutes: 104,
-    synopsis: 'A schoolteacher returns to the mountain village that exiled her father, and finds the valley has kept every one of its secrets.',
+    synopsis: 'Une institutrice retourne dans le village de montagne qui a jadis banni son père, et découvre que la vallée a su préserver chacun de ses secrets.',
     spineSheet: 'spines',
     spineBox: [266, 31, 189, 1089],
     coverSheet: 'covers',
@@ -63,13 +63,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'bluehour',
-    title: 'The Blue Hour',
+    title: "L'Heure Bleue",
     romaji: 'AO NO TOKI',
     kanji: '青の刻',
     year: 1962,
     genre: 'Romance',
     minutes: 97,
-    synopsis: 'Over one long evening in a harbour town, a widow and a stranger trade small lies until the light runs out.',
+    synopsis: "Au fil d'une longue soirée dans une ville portuaire, une veuve et un inconnu échangent de petits mensonges jusqu'à ce que la lumière s'éteigne.",
     spineSheet: 'spines',
     spineBox: [492, 31, 189, 1089],
     coverSheet: 'covers',
@@ -77,13 +77,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'river',
-    title: 'River of Salt',
+    title: 'La Rivière de Sel',
     romaji: 'SHIO NO KAWA',
     kanji: '塩の川',
     year: 1964,
-    genre: 'Drama',
+    genre: 'Drame',
     minutes: 121,
-    synopsis: 'Two brothers drag a salt barge downriver to a city that no longer wants anything they carry.',
+    synopsis: "Deux frères descendent un chaland chargé de sel vers une cité côtière qui ne veut plus rien de ce qu'ils transportent.",
     spineSheet: 'fix',
     spineBox: [197, 54, 324, 2566],
     coverSheet: 'covers',
@@ -91,13 +91,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'summer',
-    title: 'The Last Summer',
+    title: 'Le Dernier Été',
     romaji: 'SAIGO NO NATSU',
     kanji: '最後の夏',
     year: 1966,
-    genre: 'Drama',
+    genre: 'Drame',
     minutes: 109,
-    synopsis: 'The summer before the dam floods their village, three friends set fire to everything they cannot take with them.',
+    synopsis: "L'été précédant l'engloutissement de leur vallée par le nouveau barrage, trois amis d'enfance mettent le feu à tout ce qu'ils ne peuvent emporter.",
     spineSheet: 'spines',
     spineBox: [937, 31, 188, 1089],
     coverSheet: 'covers',
@@ -105,13 +105,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'green',
-    title: 'The Green Road',
+    title: 'La Route Verte',
     romaji: 'MIDORI NO MICHI',
     kanji: '緑の道',
     year: 1969,
-    genre: 'Mystery',
+    genre: 'Mystère',
     minutes: 101,
-    synopsis: 'A surveyor mapping a forest road keeps finding the same footprints, always one day ahead of him.',
+    synopsis: "Un géomètre chargé de cartographier une route à travers une forêt impénétrable retrouve constamment les mêmes empreintes de pas, toujours à un jour d'avance sur lui.",
     spineSheet: 'spines',
     spineBox: [1157, 31, 185, 1090],
     coverSheet: 'covers',
@@ -119,13 +119,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'noon',
-    title: 'Noon in Ashes',
+    title: 'Midi de Cendres',
     romaji: 'HAI NO SHOGO',
     kanji: '灰の正午',
     year: 1971,
     genre: 'Western',
     minutes: 112,
-    synopsis: 'A rider crosses a white desert to settle an old debt, and learns too late who sent him.',
+    synopsis: 'Un cavalier solitaire traverse un désert blanc pour régler une dette d’honneur, apprenant trop tard la véritable identité de son commanditaire.',
     spineSheet: 'spines',
     spineBox: [44, 32, 184, 1088],
     coverSheet: 'covers',
@@ -133,13 +133,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'observer',
-    title: 'The Observer',
+    title: "L'Observateur",
     romaji: 'KANSATSUSHA',
     kanji: '観察者',
     year: 1973,
     genre: 'Thriller',
     minutes: 96,
-    synopsis: 'A night watchman begins to suspect that the building he guards has started watching him back.',
+    synopsis: "Un gardien de nuit commence à soupçonner que l'immense complexe d'acier qu'il surveille chaque soir a commencé à l'observer en retour.",
     spineSheet: 'fix2',
     spineBox: [371, 15, 349, 2655],
     coverSheet: 'covers',
@@ -147,13 +147,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'birds',
-    title: 'The Fallen Birds',
+    title: 'Les Oiseaux Tombés',
     romaji: 'OCHITA TORI',
     kanji: '落ちた鳥',
     year: 1975,
-    genre: 'Drama',
+    genre: 'Drame',
     minutes: 118,
-    synopsis: 'When the birds stop singing over a frontier town, the mayor\'s daughter is the only one who goes looking for the reason.',
+    synopsis: "Quand les chants d'oiseaux s'éteignent brutalement au-dessus d'une bourgade frontalière, la fille du maire s'aventure seule dans les marais pour en percer la cause.",
     spineSheet: 'spines',
     spineBox: [1573, 31, 183, 1089],
     coverSheet: 'covers',
@@ -161,13 +161,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'storm',
-    title: 'Light in the Storm',
+    title: 'La Lueur dans la Tempête',
     romaji: 'ARASHI NO HI',
     kanji: '嵐の灯',
     year: 1978,
-    genre: 'Drama',
+    genre: 'Drame',
     minutes: 127,
-    synopsis: 'A lighthouse keeper and his son wait out a three-day storm with a shipwrecked sailor who will not give his name.',
+    synopsis: "Un vieux gardien de phare et son fils affrontent trois jours de tempête maritime en compagnie d'un naufragé énigmatique qui refuse de révéler son nom.",
     spineSheet: 'fix2',
     spineBox: [808, 15, 347, 2656],
     coverSheet: 'covers',
@@ -175,13 +175,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'tide',
-    title: 'The Long Tide',
+    title: 'La Longue Marée',
     romaji: 'NAGAI SHIO',
     kanji: '長い潮',
     year: 1981,
-    genre: 'Drama',
+    genre: 'Drame',
     minutes: 99,
-    synopsis: 'A fisherman\'s wife counts the tides on the harbour wall while her husband\'s boat fails to come home.',
+    synopsis: 'Assise sur la digue du port de pêche, l’épouse d’un marin scrute inlassablement les reflux de la mer alors que le navire de son époux tarde à regagner la côte.',
     spineSheet: 'spines',
     spineBox: [2012, 31, 188, 1089],
     coverSheet: 'covers',
@@ -189,13 +189,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'war',
-    title: 'A Quiet War',
+    title: 'Une Guerre Silencieuse',
     romaji: 'SHIZUKANA SENSO',
     kanji: '静かな戦争',
     year: 1985,
-    genre: 'Comedy',
+    genre: 'Comédie',
     minutes: 103,
-    synopsis: 'Two neighbours fight a silent war over a garden wall for thirty years, and neither will say how it began.',
+    synopsis: "Deux voisins intransigeants se mènent une guerre feutrée de trente ans par-dessus un mur mitoyen de jardin, sans que nul ne veuille avouer le premier affront.",
     spineSheet: 'spines',
     spineBox: [2236, 31, 189, 1089],
     coverSheet: 'covers',
@@ -203,13 +203,13 @@ const FILMS: Film[] = [
   },
   {
     id: 'door',
-    title: 'Red Door',
+    title: 'La Porte Rouge',
     romaji: 'AKAI TOBIRA',
     kanji: '赤い扉',
     year: 1989,
     genre: 'Thriller',
     minutes: 114,
-    synopsis: 'A projectionist follows a reel of unknown film through the corridors of a cinema on its final night.',
+    synopsis: "Un projectionniste solitaire suit la trace d'une bobine de pellicule non répertoriée à travers les corridors labyrinthiques d'un cinéma le soir de sa fermeture définitive.",
     spineSheet: 'spines',
     spineBox: [2462, 31, 188, 1089],
     coverSheet: 'covers',
@@ -240,11 +240,11 @@ function getBackgroundStyle(sheetId: SheetKey, box: [number, number, number, num
 }
 
 const DECADE_TABS = [
-  { id: 'all', label: 'ALL / すべて', filmIndex: 0 },
-  { id: '1950s', label: '1950s', filmIndex: 0 },
-  { id: '1960s', label: '1960s', filmIndex: 1 },
-  { id: '1970s', label: '1970s', filmIndex: 5 },
-  { id: '1980s', label: '1980s', filmIndex: 9 },
+  { id: 'all', label: 'TOUT / すべて', filmIndex: 0 },
+  { id: '1950s', label: 'ANNÉES 50', filmIndex: 0 },
+  { id: '1960s', label: 'ANNÉES 60', filmIndex: 1 },
+  { id: '1970s', label: 'ANNÉES 70', filmIndex: 5 },
+  { id: '1980s', label: 'ANNÉES 80', filmIndex: 9 },
 ];
 
 function getDecadeForYear(year: number): string {
@@ -941,7 +941,7 @@ export default function App() {
 
       {/* 1. Top Bar */}
       <header className="fixed top-0 left-0 w-full h-[84px] max-md:h-[64px] px-8 max-md:px-4 grid grid-cols-[1fr_auto_1fr] items-center z-30 pointer-events-none">
-        {/* Left: BACK link */}
+        {/* Left: RETOUR link */}
         <div className="justify-self-start pointer-events-auto">
           <a
             href="#back"
@@ -950,7 +950,7 @@ export default function App() {
             onPointerLeave={() => { stateRef.current.hoverBtn = false; }}
             className="box lbl text-[#141414] hover:bg-[#141414] hover:text-[#EDEBE6] transition-colors duration-200"
           >
-            BACK / 戻る
+            RETOUR / 戻る
           </a>
         </div>
 
@@ -966,13 +966,13 @@ export default function App() {
 
         {/* Right: Career label */}
         <div className="justify-self-end text-right max-md:hidden pointer-events-auto">
-          <span className="lbl text-[#141414]">CAREER 1958年〜1989年</span>
+          <span className="lbl text-[#141414]">CARRIÈRE 1958年〜1989年</span>
         </div>
       </header>
 
       {/* 2. Decade Tabs */}
       <nav
-        aria-label="Decades"
+        aria-label="Décennies"
         className="fixed left-1/2 -translate-x-1/2 z-30"
         style={{
           top: 'calc(50% - var(--H) / 2 - 86px)',
@@ -1012,7 +1012,7 @@ export default function App() {
 
       {/* 3. The 3D Shelf Stage */}
       <section
-        aria-label="Filmography shelf"
+        aria-label="Étagère filmographique"
         className="shelf-viewport fixed left-0 w-full z-10"
         style={{
           top: 'calc(50% - var(--H) / 2 - 40px)',
@@ -1061,7 +1061,7 @@ export default function App() {
       <button
         ref={playRingRef}
         type="button"
-        aria-label="Open film"
+        aria-label="Ouvrir la cassette"
         onClick={openDetail}
         onPointerEnter={() => { stateRef.current.hoverBtn = true; }}
         onPointerLeave={() => { stateRef.current.hoverBtn = false; }}
@@ -1107,7 +1107,7 @@ export default function App() {
       {/* 6. Navigation Arrows */}
       <button
         type="button"
-        aria-label="Previous film"
+        aria-label="Film précédent"
         onClick={handlePrev}
         onPointerEnter={() => { stateRef.current.hoverBtn = true; }}
         onPointerLeave={() => { stateRef.current.hoverBtn = false; }}
@@ -1130,7 +1130,7 @@ export default function App() {
 
       <button
         type="button"
-        aria-label="Next film"
+        aria-label="Film suivant"
         onClick={handleNext}
         onPointerEnter={() => { stateRef.current.hoverBtn = true; }}
         onPointerLeave={() => { stateRef.current.hoverBtn = false; }}
@@ -1154,7 +1154,7 @@ export default function App() {
       {/* 7. Footer */}
       <footer className="fixed bottom-[26px] max-md:bottom-[18px] left-[32px] max-md:left-[16px] right-[32px] max-md:right-[16px] flex items-center justify-between z-20 pointer-events-none">
         <div className="lbl text-[#141414] max-md:text-[9px]">
-          © LEON VASARI. ALL RIGHTS RESERVED.
+          © LÉON VASARI. TOUS DROITS RÉSERVÉS.
         </div>
         <div className="lbl text-[#141414] max-md:text-[9px] pointer-events-auto flex items-center gap-2">
           <a
@@ -1212,10 +1212,10 @@ export default function App() {
           <div className="cursor-ring absolute inset-0 rounded-full border-[1.5px] border-[#141414] bg-transparent" />
           {/* Center Dot */}
           <div className="cursor-dot w-[6px] h-[6px] rounded-full bg-[#141414]" />
-          {/* OPEN / 開く label */}
+          {/* OUVRIR / 開く label */}
           <div className="cursor-label absolute flex flex-col items-center justify-center text-white scale-0 pointer-events-none">
             <span className="lbl text-[10px] leading-[1.25] tracking-[0.1em] text-white">
-              OPEN
+              OUVRIR
             </span>
             <span className="lbl text-[10px] leading-[1.25] tracking-[0.1em] text-white">
               開く
@@ -1229,7 +1229,7 @@ export default function App() {
         ref={detailDialogRef}
         role="dialog"
         aria-modal="true"
-        aria-label={`${detailFilm.title} Detail`}
+        aria-label={`Détail : ${detailFilm.title}`}
         className="detail-dialog fixed inset-0 z-[60] bg-[#F4F2ED] overflow-y-auto"
         style={{ visibility: 'hidden' }}
       >
@@ -1242,7 +1242,7 @@ export default function App() {
             onPointerLeave={() => { stateRef.current.hoverBtn = false; }}
             className="box lbl text-[#141414] hover:bg-[#141414] hover:text-[#EDEBE6] transition-colors pointer-events-auto"
           >
-            CLOSE / 閉じる
+            FERMER / 閉じる
           </button>
 
           <div className="flex flex-col items-center justify-center gap-[5px] text-[#1F3FB0]">
@@ -1307,7 +1307,7 @@ export default function App() {
                 ref={(el) => { detailLinesRef.current[4] = el; }}
                 className="font-serif-vasari italic text-[15px] text-[#6D6A63]"
               >
-                Written and directed by Leon Vasari. 監督作品
+                Écrit et réalisé par Léon Vasari. 監督作品
               </p>
             </div>
 
@@ -1320,7 +1320,7 @@ export default function App() {
                 onPointerLeave={() => { stateRef.current.hoverBtn = false; }}
                 className="box lbl h-[44px] px-[20px] text-[#1F3FB0] border-[#1F3FB0] hover:bg-[#1F3FB0] hover:text-white transition-colors"
               >
-                WATCH THE FILM / 映画を見る
+                VOIR LE FILM / 映画を見る
               </button>
             </div>
           </div>
