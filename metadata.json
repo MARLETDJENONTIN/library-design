@@ -1,0 +1,6 @@
+{
+  "name": "Leon Vasari — Filmography VHS Shelf Hero",
+  "description": "Interactive 3D VHS filmography shelf hero for fictional director Leon Vasari featuring turning tape covers, tactile physics, masked typography, and ink-blot paper detail sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
